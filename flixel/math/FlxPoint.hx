@@ -374,7 +374,7 @@ class FlxPoint implements IFlxPooled
 	}
 
 	/**
-	 * Calculates the angle between this and another point. 0 degrees points straight up.
+	 * Calculates the angle between this and another point. 0 degrees points straight down.
 	 *
 	 * @param   point   The other point.
 	 * @return  The angle in degrees, between -180 and 180.
